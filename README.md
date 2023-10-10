@@ -7,13 +7,13 @@
   RestController
   Contruir uma API
 
-  GET - buscar uma informação
-  POST - Adicionar um dado/informação.
-  PUT - Alterar um dado/informação
-  DELETE - Remover um dado
-  PATCH - Alterar somente uma parte da informação/dado
+  GET - buscar uma informação. -
+  POST - Adicionar um dado/informação. -                 
+  PUT - Alterar um dado/informação. -
+  DELETE - Remover um dado. -
+  PATCH - Alterar somente uma parte da informação/dado. -
 
-  @RequestBoddy - é usado pela solicitação, POST, PUT, PATCH, onde os dados são enviados do cliente para o servidor para serem processados ou armazenados.
+  @RequestBoddy - é usado pela solicitação, POST, PUT, PATCH, onde os dados são enviados do cliente para o servidor para serem processados ou armazenados. -
 - Aplicação Spring Web
-- 
+
   Maven - Em aplicação serve para gerenciar dependencia e fazer build.
