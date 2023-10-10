@@ -2,8 +2,7 @@
  Spring Boot - Também conhecida como spring framework que facilita a criação de aplicações Java autônomas e prontas para produção. Configurações automáticas, Servidor web embutido,
  Spring Data(bancos de dados relacionado) e Spring Security 
 
-  Criar Controller
-  Criar controller quando quer criar páginas, retorna templete.
+  Controller - Quando quer criar páginas, retorna templete.
 
   RestController
   Contruir uma API
